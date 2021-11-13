@@ -7,5 +7,5 @@
   Além de possuir um Sistema atualizado e capaz de armezenar até 10 mil alunos </h2>
 </br>
 
-## Screenshot do Sistema </br>
+## 🖼 Screenshot do Sistema </br>
 ![image](https://user-images.githubusercontent.com/79457377/141645383-7194b610-dad2-4257-b4a7-dd3595f49c22.png)
