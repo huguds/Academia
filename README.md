@@ -2,9 +2,7 @@
 
 ## Informações sobre a Academia !
   
-<h2>Gym Academy é considerada a maior e mais tecnológica academia do mundo, pois além de possuir centenas de equipamentos ela é capaz de suportar
-  centenas de alunos, que podem treinar sem a necessidade de revezar ! 
-  Além de possuir um Sistema atualizado e capaz de armezenar até 10 mil alunos </h2>
+<h2> Descrição </h2>
 </br>
 
 ## 🖼 Screenshot do Sistema </br>
