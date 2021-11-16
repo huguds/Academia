@@ -11,3 +11,36 @@
 ## 🚀 Tecnologia <br/>
   * JAVA ![java](https://user-images.githubusercontent.com/79457377/141989155-b1f1ccd5-e469-44f0-ad7f-7dc223f859f4.png)
   * MYSQL ![mysql](https://user-images.githubusercontent.com/79457377/141989499-e2194e66-9bcd-4dcc-b4ca-2524a5754189.png)
+
+## :man_technologist: Skills
+  - :heavy_check_mark: Conexão entre o Java e o Banco de dados
+  - :heavy_check_mark: Leitura de dados em XML
+  - :heavy_check_mark: Passagem de parâmetros para tabelas
+  - :heavy_check_mark: Consulta de informações do banco de dados
+  <br/>
+  
+   # 👷 Como rodar
+
+```bash
+# Clonar o repositório
+git clone https://github.com/huguds/Academia
+
+# Entrar numa IDE de sua preferência 
+
+# Executar o sistema
+
+```
+
+## 🤔 Como contribuir <br/>
+
+- Faça um fork desse repositório; <br/>
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;<br/>
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`; <br/>
+- Faça push para a sua branch: `git push origin minha-feature`.<br/>
+<br/>
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
+  
+## :mortar_board: Autor
+<h2 align="center">
+  Author by  <a href="https://www.linkedin.com/in/victor-hugo-9b4723200/" target="_blank"> Victor Hugo </a>
+  </h2>
