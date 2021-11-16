@@ -1,6 +1,6 @@
 # <Strong> Gym Academy <Strong/> ![academia](https://user-images.githubusercontent.com/79457377/141645033-34c3d00a-fb27-4557-994e-f860a00b18a3.png)
 
-## Informações sobre o sistema ![dedo-da-mao-apontando-para-baixo](https://user-images.githubusercontent.com/79457377/141991575-857e8067-45b0-4bb2-a226-9b0afd3bdc98.png)
+## Informações sobre o sistema ![apontando-para-baixo](https://user-images.githubusercontent.com/79457377/141991701-608e8938-d0fe-4545-b807-d1eefdc059bb.png)
   
 <h2> O sistema foi desenvolvido utilizando Java e banco de dados Mysql com o intuito de aprender mais sobre a conexão entre o banco de dados e o java. Além de ser projeto completo para ser colocado no portfólio </h2>
 </br>
