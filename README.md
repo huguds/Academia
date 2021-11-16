@@ -10,4 +10,4 @@
 
 ## 🚀 Tecnologia <br/>
   * JAVA ![java](https://user-images.githubusercontent.com/79457377/141989155-b1f1ccd5-e469-44f0-ad7f-7dc223f859f4.png)
-  * MYSQL ![mysql](https://user-images.githubusercontent.com/79457377/141989326-b09886d7-75a4-487f-a228-cd4677883025.png)
+  * MYSQL ![mysql](https://user-images.githubusercontent.com/79457377/141989499-e2194e66-9bcd-4dcc-b4ca-2524a5754189.png)
